@@ -5,7 +5,7 @@ PowerPoint Controller is an Android application that turns your smart phone into
 With this wireless software presentation device you can use your smart phone to switch between the slides of any PowerPoint presentation. It works with any Bluetooth enabled Windows computer. For instance, it is almost impossible to imagine watching TV or to use a DVD player without a remote control. While using a mouse or keyboard is easy enough, a remote control can help you avoid the distraction of navigating between slides and enable switching between them at the push of a button.
 
 # Home Page
-![alt text](https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/HomePage.png)
+<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/HomePage.png" alt="Home Page" width="200" height="350">
 
 
 # Modules
@@ -13,15 +13,13 @@ With this wireless software presentation device you can use your smart phone to 
       The Wi-Fi connectivity asks for the IP address of the system to be
       connected and verifies whether the IP address is valid or not. It will try to connect
       to the device whose IP address is given beforehand.
-      
-![alt text](https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/WiFiConnectivityPage.png)
+<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/WiFiConnectivityPage.png" alt="Home Page" width="200" height="350">
       
    # b. Bluetooth Connectivity Module:
       The Bluetooth connectivity lists all the available Bluetooth devices.
       Moreover, it shows the paired devices along with their MAC (Media Access
       Control) addresses.
-      
-![alt text](https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/BluetoothConnectivityPage.png)
+<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/BluetoothConnectivityPage.png" alt="Home Page" width="200" height="350">
       
    # c. Client Authentication Module:
       Client Authentication is the process by which users securely access a
@@ -38,6 +36,4 @@ With this wireless software presentation device you can use your smart phone to 
       network. The client–server model of computing is a distributed application
       structure that partitions tasks or workloads between the providers of a resource or
       service, called servers, and service requesters, called clients.
-
-
-![alt text](https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/ControlsPage.png)
+<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/ControlsPage.png" alt="Home Page" width="200" height="350">
