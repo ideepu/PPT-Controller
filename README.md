@@ -1,0 +1,2 @@
+# PPT-Controller
+PowerPoint Controller is an Android application that turns your smart phone into a remote for PowerPoint presentations. It comes with support for operating system Windows. It uses the Bluetooth or Wi-Fi capability of your smart phone for controlling presentations. PowerPoint Controller is an app that assists you in giving dynamic presentations by utilising hardware that you already have.
