@@ -30,5 +30,3 @@ With this wireless software presentation device you can use your smart phone to 
       structure that partitions tasks or workloads between the providers of a resource or
       service, called servers, and service requesters, called clients.
       
-      
-      
