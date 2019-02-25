@@ -37,3 +37,14 @@ With this wireless software presentation device you can use your smart phone to 
       structure that partitions tasks or workloads between the providers of a resource or
       service, called servers, and service requesters, called clients.
 <img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/ControlsPage.png" alt="Controls Page" width="200" height="350">
+
+
+# STEPS OF EXECUTION
+
+1. Connect both PC or Laptop and mobile phone to the same network.
+2. Open the application and choose the required option.
+3. Start the server in the PC or Laptop.
+4. Know the IP address of the PC or Laptop by typing the command “ipconfing” in the command prompt.
+5. Now, enter the IP address of the PC or Laptop in the application which is in the mobile.
+6. Make sure that the connection is established between mobile device and PC or Laptop.
+7. Now, open the power point presentation in the system and control it from your mobile device.
