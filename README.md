@@ -13,13 +13,13 @@ With this wireless software presentation device you can use your smart phone to 
       The Wi-Fi connectivity asks for the IP address of the system to be
       connected and verifies whether the IP address is valid or not. It will try to connect
       to the device whose IP address is given beforehand.
-<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/WiFiConnectivityPage.png" alt="Home Page" width="200" height="350">
+<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/WiFiConnectivityPage.png" alt="WifiConnectivity Page" width="200" height="350">
       
    # b. Bluetooth Connectivity Module:
       The Bluetooth connectivity lists all the available Bluetooth devices.
       Moreover, it shows the paired devices along with their MAC (Media Access
       Control) addresses.
-<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/BluetoothConnectivityPage.png" alt="Home Page" width="200" height="350">
+<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/BluetoothConnectivityPage.png" alt="BluetoothConnectivity Page" width="200" height="350">
       
    # c. Client Authentication Module:
       Client Authentication is the process by which users securely access a
@@ -36,4 +36,4 @@ With this wireless software presentation device you can use your smart phone to 
       network. The client–server model of computing is a distributed application
       structure that partitions tasks or workloads between the providers of a resource or
       service, called servers, and service requesters, called clients.
-<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/ControlsPage.png" alt="Home Page" width="200" height="350">
+<img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/ControlsPage.png" alt="Controls Page" width="200" height="350">
