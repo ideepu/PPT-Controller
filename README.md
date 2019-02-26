@@ -4,7 +4,6 @@ PowerPoint Controller is an Android application that turns your smart phone into
 
 With this wireless software presentation device you can use your smart phone to switch between the slides of any PowerPoint presentation. It works with any Bluetooth enabled Windows computer. For instance, it is almost impossible to imagine watching TV or to use a DVD player without a remote control. While using a mouse or keyboard is easy enough, a remote control can help you avoid the distraction of navigating between slides and enable switching between them at the push of a button.
 
-# Home Page
 <img src="https://github.com/PradeepTammali/PPT-Controller/blob/master/Screens/HomePage.png" alt="Home Page" width="200" height="350">
 
 
